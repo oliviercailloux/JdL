@@ -1,9 +1,56 @@
 = Journée du LAMSADE 2019
 
-La journée du Lamsade aura lieu le 18 avril.
+La journée du Lamsade aura lieu le 18 avril à l’IHP.
 
-== Programmé
+== Programme prévisionnel
+
+9h00 *Mot de bienvenue* de Daniela Grigori
+
+[cols="1,4"]
+|===
+
+| 9h10 | Abdallah Saffidine
+| 9h45 | Raja Trabelsi
+| 10h05 | Personne du pôle 3
+|===
+
+10h45 *Pause*
+
+[cols="1,4"]
+|===
+
+| 11h00 | Jacob Abernethy
+| 11h40 | Juliette Rouchier : _Faire l’expérience d’un dilemme social dans un jeu de rôle : Comment une situation de tension explicite engendre dialogue et innovation_ 
+| 12h05 | Ali Ozkes
+|===
+
+12h35 *Déjeuner*
+
+[cols="1,4"]
+|===
+
+| 14h00 | Hassène Aissi
+| 14h40 | Louis Dublois (à confirmer)
+| 15h00 | Nouveaux doctorants du Lamsade
+|===
+
+15h40 *Pause*
+
+[cols="1,4"]
+|===
+
+| 16h00 | Mourad Baiou on the first and the last results obtained with Michel Balinski: _Matchings and Allocations under Preferences: Algorithms and Polytopes_
+| 16h40 | Rafaël Pinot : _Attaque adversariale et théorie des jeux_
+| 17h00 | Jérôme Lang : _Une proposition de Referendum d’Initiative Citoyenne_
+| 17h10 | Denis Cornaz : _Covering en optimisation combinatoire_
+|===
+
+17h45 *Discussion*
+
+== Programmé (en vrac)
 Nous avons convenu avec Marie-Clotilde (4 mars) que nous suivrons le programme de l’année dernière concernant les pauses café.
+
+Format de l’année dernière : 10 + 20 + 40 + 20 + 15 + 40 + 20 + 15 + 15 + 40 + 10 + 40 + 10 + 20 + 40 + 15 + 30 = 400 minutes. Slots contigus : 105 + 90 + 100 + 105.
 
 * Mot de bienvenue (10 min)
 * Mourad Baiou a accepté de parler à la JdL pour l'hommage à Michel Balinski (40 min). Il doit être placé l’après-midi.
@@ -11,30 +58,27 @@ Nous avons convenu avec Marie-Clotilde (4 mars) que nous suivrons le programme d
 du LAMSADE ? Tu pourrais par exemple indiquer ce que tu es devenu, ce
 que le LAMSADE t’a apporté, peut-être aborder tes problématiques de
 recherche actuelles ? Tu pourrais avoir qqch. comme 30 minutes
-(négociable !). » (40 min)
-* Marc Pirlot présentera le mesurage conjoint (40 min).
+(négociable !). » (35 min)
+* Jacob Abernathi (40 min)
 * Jérôme Lang présentera son travail avec Terra Nova sur le Référendum d’Initiative Citoyenne (10 min) (« Ca marche, compte-moi 10 mn et j'en prendrai 6-7 »).
-* Juliette sur les jeux coop ou autres (40 min discussion comprise) : a dit oui
+* Juliette sur les jeux coop ou autres (20 min discussion comprise) : a dit oui, elle préfère le matin mais pas très tôt
+* Ali (20 min)
 * Pôle 1 : Hassène (40 min)
+* Pôle 2 : Denis Cornaz (40 min)
 
-Format de l’année dernière : 10 + 20 + 40 + 20 + 15 + 40 + 20 + 15 + 15 + 40 + 10 + 40 + 10 + 20 + 40 + 15 + 30 = 400 minutes. Slots contigus : 105 + 90 + 100 + 105.
-
-400 min / 30 min = 13 slots
-
-Déjà programmé : 220 min.
+Déjà programmé : 255 min.
 
 === Envisagé
-* Jacob Abernathi (40 min) ? ⇒ Yann nous tient au courant.
 * Qui sont les nouveaux doctorants du Lamsade ? (20 min)
 * Présentations de 20 min par doctorant, un par pôle (60 min)
-* 1 personne interne par pôle ⇒ 120 min
-** Florian Y. ou qqn d’autre ?
-
-* Claire Mathieu (40 min) ? Denis demande à Laurent de l’inviter.
+** Nicolas Carion (Tristan)
+* 1 personne du pôle 3 ⇒ 40 min
 
 === Abandonné
 * Deux hommages en plus (60 min)
 * Michael a dit non
+* Claire Mathieu (40 min) ? Denis demande à Laurent de l’inviter. Ah ben non.
+* Marc Pirlot présentera le mesurage conjoint (40 min). En fait non.
 
 == e-mail Laurent 5 février
 merci d'avoir accepté la difficile mais hautement gratifiante mission d'organiser la journée du LAMSADE pour 2019. Comme d'habitude ça se passera à l'IHP. Eleni a fait une réservation d'un amphi (18 avril), et d'une autre salle pour les pause café/déjeuner. Il y a aura des travaux dans le hall de l'IHP mais la salle pour les pauses et autre ne seront pas loin. Marie-Clotilde se charge de la réservation du resto le soir. Restez en lien avec Eleni et Marie pour caler horaires des pauses café et déjeuner. Sinon vous pouvez solliciter Hawa pour rédiger le programme. Merci de lui communiquer le plus en avance possible pour diffusion.
