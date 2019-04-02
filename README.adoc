@@ -39,7 +39,7 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 [cols="1,4"]
 |===
 
-| 16h00 | Mourad Baiou on the first and the last results obtained with Michel Balinski: _Matchings and Allocations under Preferences: Algorithms and Polytopes_
+| 16h00 | Mourad Baiou on the first and the last results obtained with Michel Balinski : _Matchings and Allocations under Preferences: Algorithms and Polytopes_
 | 16h40 | Jérôme Lang : _Représentation proportionnelle, en pratique_
 | 16h50 | Denis Cornaz : _Covering and partitioning with bicliques… and t-cycles_
 |===
