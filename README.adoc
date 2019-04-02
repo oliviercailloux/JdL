@@ -21,10 +21,10 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 
 | 11h00 | Jacob Abernethy
 | 11h40 | Juliette Rouchier : _Faire l’expérience d’un dilemme social dans un jeu de rôle : Comment une situation de tension explicite engendre dialogue et innovation_ 
-| 12h05 | Ali Ozkes
+| 12h05 | Rafaël Pinot : _Attaque adversariale et théorie des jeux_
 |===
 
-12h35 *Déjeuner*
+12h25 *Déjeuner*
 
 [cols="1,4"]
 |===
@@ -40,10 +40,9 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 |===
 
 | 16h00 | Mourad Baiou on the first and the last results obtained with Michel Balinski: _Matchings and Allocations under Preferences: Algorithms and Polytopes_
-| 16h40 | Rafaël Pinot : _Attaque adversariale et théorie des jeux_
-| 17h00 | Jérôme Lang : _Représentation proportionnelle, en pratique_
-| 17h10 | Denis Cornaz : _Covering and partitioning with bicliques… and t-cycles_
+| 16h40 | Jérôme Lang : _Représentation proportionnelle, en pratique_
+| 16h50 | Denis Cornaz : _Covering and partitioning with bicliques… and t-cycles_
 |===
 
-17h45 *Discussion*
+17h30 *Discussion*
 
