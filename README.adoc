@@ -31,7 +31,7 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 
 | 14h00 | Hassène Aissi
 | 14h40 | Louis Dublois : _Mixed Dominating Set_
-| 15h00 | Nouveaux doctorants du Lamsade : Timothée SOHM-QUERON (confirmé) ; Hajer BEN FEKIH (confirmé) ; Axel FAURE BEAULIEU (confirmé) ; Beatrice NAPOLITANO (confirmé) ; Pierre CAZALS (confirmé) ; Felipe GARRIDO LUCERO ; Alexis DUBURCQ ; Eric BENHAMOU ; Guillaume PREVOST ; Paul Alain KALDJOB KALDJOB ; Laurent MEUNIER 
+| 15h00 | Nouveaux doctorants du Lamsade : Timothée SOHM-QUERON (confirmé) ; Hajer BEN FEKIH (confirmé) ; Axel FAURE BEAULIEU (confirmé) ; Beatrice NAPOLITANO (confirmé) ; Pierre CAZALS (confirmé) ; Felipe GARRIDO LUCERO ; Alexis DUBURCQ ; Eric BENHAMOU ; Guillaume PREVOST ; Paul Alain KALDJOB KALDJOB ; Laurent MEUNIER (confirmé)
 |===
 
 15h40 *Pause*
@@ -41,7 +41,7 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 
 | 16h00 | Mourad Baiou on the first and the last results obtained with Michel Balinski : _Matchings and Allocations under Preferences: Algorithms and Polytopes_
 | 16h40 | Jérôme Lang : _Représentation proportionnelle, en pratique_
-| 16h50 | Denis Cornaz : _Covering and partitioning with bicliques… and t-cycles_
+| 16h50 | Denis Cornaz : _Covering and partitioning with bicliques_
 |===
 
 17h30 *Discussion*
