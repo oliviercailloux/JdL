@@ -9,7 +9,7 @@ La journée du Lamsade aura lieu le 18 avril à l’IHP.
 [cols="1,4"]
 |===
 
-| 9h10 | Abdallah Saffidine
+| 9h10 | Abdallah Saffidine : _De Monte-Carlo à Sydney en passant par Manhattan, itinéraires d'un docteur du LAMSADE_
 | 9h45 | Raja Trabelsi : _Using bankruptcy rules to allocate CO2 emission permits_
 | 10h05 | Dario Collazo
 |===
