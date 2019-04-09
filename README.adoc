@@ -1,8 +1,8 @@
 = Journée du LAMSADE 2019
 
-La journée du Lamsade aura lieu le 18 avril à l’IHP.
+La journée du Lamsade aura lieu le 18 avril à l’institut Henri-Poincaré (IHP).
 
-== Programme prévisionnel
+== Programme
 
 9h00 *Mot de bienvenue* de Daniela Grigori
 
