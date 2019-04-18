@@ -13,7 +13,7 @@ Les pauses café et déjeuner auront lieu à l’École de chimie (ENSCP), 11 ru
 
 | 9h10 | Abdallah Saffidine : _De Monte-Carlo à Sydney en passant par Manhattan, itinéraires d'un docteur du LAMSADE_
 | 9h45 | Raja Trabelsi : _Using bankruptcy rules to allocate CO2 emission permits_
-| 10h05 | Dario Collazo
+| 10h05 | Dario Collazo : _Linear Time Membership in a Class of Regular Expressions with Counting, Interleaving and Unordered Concatenation_
 |===
 
 10h45 *Pause*
