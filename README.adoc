@@ -48,3 +48,5 @@ Les pauses café et déjeuner auront lieu à l’École de chimie (ENSCP), 11 ru
 
 17h30 *Discussion*
 
+//pauses trop courtes !
+
