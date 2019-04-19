@@ -50,6 +50,10 @@ Les pauses café et déjeuner auront lieu à l’École de chimie (ENSCP), 11 ru
 
 19h30 *Diner* : http://bouillonracine.fr/[Le Bouillon Racine], 3, rue Racine 75006 Paris
 
-//première pauses trop courte, devrait permettre d’absorber le retard initial difficile à éviter.
-// Prévenir les orateurs de leur temps ; conserver obligatoirement au moins 5 minutes pour les discussions ; insister pour que la présentation soit accessible.
+== Notes pour l’année prochaine
+* Première pause trop courte, devrait permettre d’absorber le retard initial difficile à éviter
+* Prévenir les orateurs de leur temps ; insister pour que la présentation soit accessible
+* Conserver obligatoirement au moins 5 minutes pour les discussions par exposé lors de la modération
+* Préparer éventuellement la discussion de fin de journée
+* L’IHP met à disposition un ordinateur et un pointeur sur place (déjà connecté au projecteur et à internet), inutile d’amener un ordinateur du laboratoire
 
